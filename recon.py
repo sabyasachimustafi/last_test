@@ -20,7 +20,6 @@ def open_google_dorks(url, search_google, time_delay):
 
     print("test")
 
-
 print("Hello Saby")
 
 os.system("masscan 52.17.227.174 -p80,81-8000 > tmp")
